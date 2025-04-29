@@ -1,0 +1,1 @@
+This project uses machine learning regression techniques to predict the compressive strength of concrete based on its ingredients. The dataset contains various concrete mixture components, and the goal is to build a model that accurately predicts the strength of the concrete.
